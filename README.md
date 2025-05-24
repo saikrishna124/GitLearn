@@ -8,4 +8,5 @@ Git Most used commands
 6. git fetch
 7. git checkout feature1
 8. git branch feature3  
-9. git push --set-upstream origin feature4
+9. git add .
+10. git push --set-upstream origin feature4
