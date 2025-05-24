@@ -8,3 +8,4 @@ Git Most used commands
 6. git pull
 7. git fetch
 8. git checkout feature1
+9. git merge main
